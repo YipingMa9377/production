@@ -27,4 +27,5 @@ dependencies = [
 dev = [
     "pyrefly>=1.0.0",
     "ruff>=0.15.15",
+    "numba>=0.57.0",
 ]
